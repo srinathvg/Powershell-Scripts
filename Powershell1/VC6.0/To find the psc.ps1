@@ -1,4 +1,4 @@
-﻿# Author : Ganesh Sekarbabu
+
 # Site - https://techbrainblog.com/
 # Purpose: To find which platform service controller ( PSC ) is pointing to my vCenter appliance VCSA -6.0
 # Download the Plink.exe from http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
